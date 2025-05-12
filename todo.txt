@@ -1,0 +1,1 @@
+error handling in the parsing functions. basically exceptions that they return.

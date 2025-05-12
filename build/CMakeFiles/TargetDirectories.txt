@@ -1,0 +1,3 @@
+C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/CardLang.dir
+C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/edit_cache.dir
+C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/rebuild_cache.dir

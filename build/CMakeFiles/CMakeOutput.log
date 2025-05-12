@@ -1,0 +1,27 @@
+The system is: Windows - 10.0.26100 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/LLVM/bin/clang.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is Clang, found in "C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/3.23.22060601-MSVC_2/CompilerIdC/a.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/w64devkit/bin/make.exe -f Makefile cmTC_48b9c/fast && C:/w64devkit/bin/make.exe  -f CMakeFiles/cmTC_48b9c.dir/build.make CMakeFiles/cmTC_48b9c.dir/build
+make[1]: Entering directory 'C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48b9c.dir/CMakeCCompilerABI.c.obj
+"C:/Program Files/LLVM/bin/clang.exe"   -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_48b9c.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_48b9c.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_48b9c.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCCompilerABI.c"
+Linking C executable cmTC_48b9c.exe
+"C:/Program Files/LLVM/bin/clang.exe" -fuse-ld=lld-link -nostartfiles -nostdlib -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console @CMakeFiles/cmTC_48b9c.dir/objects1.rsp -o cmTC_48b9c.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_48b9c.lib -Xlinker /pdb:C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/CMakeTmp/cmTC_48b9c.pdb -Xlinker /version:0.0  
+make[1]: Leaving directory 'C:/Users/iaoba/Documents/cardlang/build/CMakeFiles/CMakeTmp'
+
+
+

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/iaoba/Documents/cardlang/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang.exe\"  @CMakeFiles/CardLang.dir/includes_C.rsp -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -std=gnu99 -o CMakeFiles/CardLang.dir/src/cardlang.c.obj -c C:/Users/iaoba/Documents/cardlang/src/cardlang.c",
+  "file": "C:/Users/iaoba/Documents/cardlang/src/cardlang.c"
+},
+{
+  "directory": "C:/Users/iaoba/Documents/cardlang/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang.exe\"  @CMakeFiles/CardLang.dir/includes_C.rsp -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -std=gnu99 -o CMakeFiles/CardLang.dir/src/cllex.c.obj -c C:/Users/iaoba/Documents/cardlang/src/cllex.c",
+  "file": "C:/Users/iaoba/Documents/cardlang/src/cllex.c"
+},
+{
+  "directory": "C:/Users/iaoba/Documents/cardlang/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang.exe\"  @CMakeFiles/CardLang.dir/includes_C.rsp -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -std=gnu99 -o CMakeFiles/CardLang.dir/src/clparse.c.obj -c C:/Users/iaoba/Documents/cardlang/src/clparse.c",
+  "file": "C:/Users/iaoba/Documents/cardlang/src/clparse.c"
+},
+{
+  "directory": "C:/Users/iaoba/Documents/cardlang/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang.exe\"  @CMakeFiles/CardLang.dir/includes_C.rsp -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -std=gnu99 -o CMakeFiles/CardLang.dir/src/io.c.obj -c C:/Users/iaoba/Documents/cardlang/src/io.c",
+  "file": "C:/Users/iaoba/Documents/cardlang/src/io.c"
+},
+{
+  "directory": "C:/Users/iaoba/Documents/cardlang/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang.exe\"  @CMakeFiles/CardLang.dir/includes_C.rsp -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -std=gnu99 -o CMakeFiles/CardLang.dir/src/main.c.obj -c C:/Users/iaoba/Documents/cardlang/src/main.c",
+  "file": "C:/Users/iaoba/Documents/cardlang/src/main.c"
+}
+]
